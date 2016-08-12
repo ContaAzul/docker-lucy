@@ -4,5 +4,7 @@ numpy==1.11.0
 scipy==0.17.0
 pandas==0.18.1
 flask==0.11
+Flask-APScheduler==1.4.0
+Flask-Script==2.0.5
 psycopg2==2.6.1
 redis==2.10.5
